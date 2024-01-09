@@ -1,0 +1,12 @@
+<div class="container bg-light py-5 d-flex flex-column align-items-center justify-content-center text-center">
+  <h1 class="display-5 fw-bold">مرحبا يمكنك بدا الاختبار</h1>
+  <p class="col-md-8 fs-4">يوجد 20 سؤالا في الامتحان</p>
+
+  <div class="name col-md-4 my-3">
+    <label for="">:الاسم الكامل</label>
+    <input #name type="text" class="form-control">
+  </div>
+
+  <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">!!ابدا الاختبار </button>
+
+</div>

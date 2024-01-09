@@ -1,0 +1,84 @@
+{
+    "questions": [{
+            "questionText": "ما هو الشهر الذي يصوم فيه المسلمون؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "ما هي اول سورة في القران ؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "ما هي الصلاة التي تؤدي في وقت العيد؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "اذكر بعض أسماء السابقين إلى الإسلام؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "ما هي القيم الأخلاقية الرئيسية في التعليم الإسلامي، وكيف يمكن للتلاميذ تطبيقها في حياتهم اليومية؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "كيف يمكن للشباب المسلم تحقيق التوازن بين التكنولوجيا الحديثة والقيم الإسلامية في حياتهم اليومية؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "ما اسم الملك الذي جاء بالوحي إلى رسول الله صلى الله عليه وسلم ؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "من النبي الذي انزل  عليه الانجيل؟",
+            "explanation": ""
+        },
+        {
+            "questionText": "اذكر اسماء الخلفاء الراشدين؟",
+            "explanation": ""
+        },
+
+        {
+          "questionText": "ما هي أطول سورة في القران الكريم؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "ما هي أول سورة انزلت على الرسول صلى الله عليه وسلم؟",
+          "explanation": " "
+        },
+        {
+          "questionText": "من النبي الذي انزل  عليه الزابور؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "من النبي الذي انزل  عليه الثورات؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "ما هي أولى القبلتين؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "ما هو الركن الرابع من أركان الإسلام؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "في أي وقت يتم الإفطار في رمضان؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "متى يجب الإمساك عن الطعام والشراب في رمضان؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "ما هو العيد الذي يأتي بعد رمضان؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "ما هي أفضل ليلة في رمضان؟",
+          "explanation": ""
+        },
+        {
+          "questionText": "كم عام استمرت دعوة الرسول صلى الله عليه وسلم؟",
+          "explanation": ""
+        }
+    ]
+}

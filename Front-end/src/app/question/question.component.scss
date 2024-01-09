@@ -1,0 +1,50 @@
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+li .card:hover {
+    border: 1px solid blue;
+}
+
+ol {
+    padding: 0;
+}
+
+
+
+.custom-input-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+  margin: 0;
+  font-size: inherit;
+  border: none;
+  outline: none;
+}
+
+input:hover {
+  border: 1px solid blue;
+}
+
+/* question.component.scss */
+
+.error {
+  border: 2px solid red; /* Ajoutez ici les styles que vous souhaitez pour indiquer l'erreur */
+}
